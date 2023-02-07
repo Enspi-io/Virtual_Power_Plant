@@ -1,4 +1,5 @@
 Decentralized Virtual Power Plant
+
 This repository contains the code for a decentralized virtual power plant that manages up to 2 megawatts of distributed energy resources from wind, solar, battery storage and natural gas. The virtual power plant is in support of demand side response management and focuses on load balancing, load shifting, and curtailment operations for enterprises.
 
 Features
